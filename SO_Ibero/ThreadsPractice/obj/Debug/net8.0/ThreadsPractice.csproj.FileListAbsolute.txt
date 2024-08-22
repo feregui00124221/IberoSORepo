@@ -1,0 +1,15 @@
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\bin\Debug\net8.0\ThreadsPractice.exe
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\bin\Debug\net8.0\ThreadsPractice.deps.json
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\bin\Debug\net8.0\ThreadsPractice.runtimeconfig.json
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\bin\Debug\net8.0\ThreadsPractice.dll
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\bin\Debug\net8.0\ThreadsPractice.pdb
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\obj\Debug\net8.0\ThreadsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\obj\Debug\net8.0\ThreadsPractice.AssemblyInfoInputs.cache
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\obj\Debug\net8.0\ThreadsPractice.AssemblyInfo.cs
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\obj\Debug\net8.0\ThreadsPractice.csproj.CoreCompileInputs.cache
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\obj\Debug\net8.0\ThreadsPractice.sourcelink.json
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\obj\Debug\net8.0\ThreadsPractice.dll
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\obj\Debug\net8.0\refint\ThreadsPractice.dll
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\obj\Debug\net8.0\ThreadsPractice.pdb
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\obj\Debug\net8.0\ThreadsPractice.genruntimeconfig.cache
+C:\Users\fereg\OneDrive\Documentos\IBERO\SO\IberoSORepo\SO_Ibero\ThreadsPractice\obj\Debug\net8.0\ref\ThreadsPractice.dll
