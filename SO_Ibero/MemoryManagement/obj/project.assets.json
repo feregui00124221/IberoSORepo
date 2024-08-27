@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fereg\\OneDrive\\Documentos\\IBERO\\SO\\IberoSORepo\\SO_Ibero\\ThreadsPractice\\ThreadsPractice.csproj",
-      "projectName": "ThreadsPractice",
-      "projectPath": "C:\\Users\\fereg\\OneDrive\\Documentos\\IBERO\\SO\\IberoSORepo\\SO_Ibero\\ThreadsPractice\\ThreadsPractice.csproj",
+      "projectUniqueName": "C:\\Users\\fereg\\OneDrive\\Documentos\\IBERO\\SO\\IberoSORepo\\SO_Ibero\\MemoryManagement\\MemoryManagement.csproj",
+      "projectName": "MemoryManagement",
+      "projectPath": "C:\\Users\\fereg\\OneDrive\\Documentos\\IBERO\\SO\\IberoSORepo\\SO_Ibero\\MemoryManagement\\MemoryManagement.csproj",
       "packagesPath": "C:\\Users\\fereg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fereg\\OneDrive\\Documentos\\IBERO\\SO\\IberoSORepo\\SO_Ibero\\ThreadsPractice\\obj\\",
+      "outputPath": "C:\\Users\\fereg\\OneDrive\\Documentos\\IBERO\\SO\\IberoSORepo\\SO_Ibero\\MemoryManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fereg\\AppData\\Roaming\\NuGet\\NuGet.Config"
